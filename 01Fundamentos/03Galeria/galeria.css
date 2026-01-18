@@ -1,7 +1,6 @@
 body {
 	font-family: "Open Sans", sans-serif;
-	background-color: #36306f;
-	background-size: contain;
+	background-image: linear-gradient(120deg, #272159, #7b71d2); /*aplicando gradiente no fundo*/
 	margin: 0;
 	padding: 2rem;
 	text-align: center;
@@ -9,11 +8,23 @@ body {
 
 .galeria h1 {
 	color: #e9e6ff; 
-	margin-bottom: 40px;
+	margin-bottom: 2rem;
+}
+
+.a-touchable{
+	text-decoration: none; /* Remove sublinhado */
+	font-weight: normal;
+	color: #404040;
+}
+.a-touchable:visited{
+	color: #404040;
+}
+.a-touchable:hover{
+	text-decoration: none;
 }
 
 .foto-item {
-	background-color: #ffffffed;
+	background-color: #f0e4ffed;
 	border: 1px solid #7d76c0; /* Borda verde clara */
 	border-radius: 8px;
 	display: inline-block; /* Permite que os itens fiquem lado a lado */
@@ -22,6 +33,15 @@ body {
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	width: 12rem;
 	vertical-align: top; /* Alinha no topo se as alturas forem diferentes */
+}
+
+.foto-item:hover{
+	background-color: #ffffffed;
+	width: 13rem;
+	cursor: pointer;
+	transition-delay: 0.1s;
+	margin-top: -1px;
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.316);
 }
 
 .foto-item img {
@@ -38,12 +58,14 @@ body {
 	margin-bottom: 10px;
 }
 
-.foto-item a {
+.a-link {
 	color: #388e3c; /* Link verde */
 	text-decoration: none; /* Remove sublinhado */
 	font-weight: bold;
 }
-
-.foto-item a:hover {
+.a-link:visited{
+	color: #388e3c;
+}
+.a-link:hover {
 	text-decoration: underline; /* Sublinhado ao passar o mouse */
 }
