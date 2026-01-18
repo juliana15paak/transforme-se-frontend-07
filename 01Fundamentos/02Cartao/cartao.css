@@ -2,37 +2,38 @@ body {
     font-family: 'Verdana', sans-serif;
     background-image: url(https://wallpapers-clan.com/wp-content/uploads/2024/04/spy-x-family-anya-forger-pink-desktop-wallpaper-preview.jpg);
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     min-height: 100vh;
     margin: 0;
 }
 
 .cartao-container {
-    background-color: #ffffff; /* Fundo branco para o cartão */
+    background-color: #ffffffd6; 
     width: 350px;
     text-align: center;
     /* Box Model */
-    border: 2px solid #ce93d8; /* Borda em lilás médio */
-    padding: 30px; /* Preenchimento interno */
+    border: 2px solid #da2a8d; 
+    padding: 2rem; /* Preenchimento interno */
     margin: 20px; 
+    margin-left: 10%;
     border-radius: 10px;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1); /* Sombra mais sutil */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.236); /* Sombra mais sutil */
 }
 
 .nome-completo {
-    color: #4a148c; /* Roxo escuro para o nome */
+    color: #57034c; 
     font-size: 2em;
     margin-bottom: 10px;
 }
 
 .cargo {
-    color: #6a1b9a; /* Roxo médio para o cargo */
+    color: #720f4f;
     font-size: 1.1em;
     margin-bottom: 20px;
 }
 
 .contato {
-    color: #9c27b0; /* Roxo vibrante para o contato */
+    color: #b31182; 
     font-size: 0.9em;
 }
