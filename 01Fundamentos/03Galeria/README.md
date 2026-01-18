@@ -1,5 +1,5 @@
 # Galeria de Fotos - Álbuns Favoritos
-<img width="1919" height="878" alt="galeria de fotos com diferentes álbuns musicais" src="https://github.com/user-attachments/assets/57854e07-2302-45ac-bc33-356c4ee4460d" />
+<img width="1893" height="876" alt="galeira de fotos com diferentes álbuns musicais" src="https://github.com/user-attachments/assets/8900eb2b-5b16-49cc-bf1a-d1366dadec71" />
 
 ## Tech Stack
 
