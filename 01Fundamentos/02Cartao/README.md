@@ -1,5 +1,5 @@
-# Cartão de Visita de Personagem - Anya Forgers
-<img width="1894" height="879" alt="Captura de tela 2026-01-16 232020" src="https://github.com/user-attachments/assets/eb42fc21-9da1-46b6-81ed-8ad4be83d4e8" />
+# Cartão de Visita de Personagem - Anya Forger
+<img width="1919" height="878" alt="cartao de visita da ana forger" src="https://github.com/user-attachments/assets/57854e07-2302-45ac-bc33-356c4ee4460d" />
 
 ## Tech Stack
 
