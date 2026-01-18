@@ -1,40 +1,41 @@
 body {
 	font-family: "Open Sans", sans-serif;
-	background-color: #e8f5e9; /* Verde claro */
+	background-color: #36306f;
+	background-size: contain;
 	margin: 0;
-	padding: 30px;
+	padding: 2rem;
 	text-align: center;
 }
 
 .galeria h1 {
-	color: #2e7d32; /* Verde escuro */
+	color: #e9e6ff; 
 	margin-bottom: 40px;
 }
 
 .foto-item {
-	background-color: #fff;
-	border: 1px solid #c8e6c9; /* Borda verde clara */
+	background-color: #ffffffed;
+	border: 1px solid #7d76c0; /* Borda verde clara */
 	border-radius: 8px;
 	display: inline-block; /* Permite que os itens fiquem lado a lado */
-	margin: 15px; /* Espaço entre os itens */
+	margin: 20px; /* Espaço entre os itens */
 	padding: 15px; /* Preenchimento interno */
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-	width: 250px;
+	width: 12rem;
 	vertical-align: top; /* Alinha no topo se as alturas forem diferentes */
 }
 
 .foto-item img {
 	width: 100%; /* Imagem se ajusta à largura do contêiner */
 	height: auto;
-	border: 2px solid #81c784; /* Borda da imagem */
+	border: 2px solid #b4adf4; /* Borda da imagem */
 	border-radius: 5px;
 	margin-bottom: 10px;
 }
 
 .foto-item p {
-	color: #555;
+	color: #404040;
 	font-size: 0.9em;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 
 .foto-item a {
