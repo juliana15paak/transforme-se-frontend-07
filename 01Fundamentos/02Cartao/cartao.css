@@ -13,7 +13,7 @@ body {
     width: 350px;
     text-align: center;
     /* Box Model */
-    border: 2px solid #da2a8d; 
+    border: 6px inset #da2a8d; 
     padding: 2rem; /* Preenchimento interno */
     margin: 20px; 
     margin-left: 10%;
