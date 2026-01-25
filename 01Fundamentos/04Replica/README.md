@@ -1,5 +1,5 @@
 # Réplica de Componente - Login 
-<img width="1893" height="876" alt="galeira de fotos com diferentes álbuns musicais" src="https://github.com/user-attachments/assets/8900eb2b-5b16-49cc-bf1a-d1366dadec71" />
+<img width="1919" height="869" alt="tela de login" src="https://github.com/user-attachments/assets/22379715-89e1-4325-ba65-c408d5fc370e" />
 
 ## Tech Stack
 

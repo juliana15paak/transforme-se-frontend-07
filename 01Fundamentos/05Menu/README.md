@@ -1,5 +1,5 @@
 # Menu de navegação
-<img width="1893" height="876" alt="galeira de fotos com diferentes álbuns musicais" src="https://github.com/user-attachments/assets/8900eb2b-5b16-49cc-bf1a-d1366dadec71" />
+<img width="1919" height="869" alt="tela com um menu de navegação" src="https://github.com/user-attachments/assets/7c1bc9b9-6b5e-4b41-be61-d8c42d227299" />
 
 ## Tech Stack
 
