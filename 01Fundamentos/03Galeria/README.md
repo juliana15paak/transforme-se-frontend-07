@@ -1,5 +1,7 @@
 # Galeria de Fotos - Álbuns Favoritos
-<img width="1893" height="876" alt="galeira de fotos com diferentes álbuns musicais" src="https://github.com/user-attachments/assets/8900eb2b-5b16-49cc-bf1a-d1366dadec71" />
+<img width="1893" height="873" alt="álbum do josé jr em destaque com vinil, capa do álbum e link para spotify" src="https://github.com/user-attachments/assets/14d1aa25-0863-41c5-b5c9-a1fb72c3510a" />
+<img width="1879" height="880" alt="álbum an evening with silk sonic em destaque com vinil, capa do álbum e link do spotify" src="https://github.com/user-attachments/assets/bf838edd-38a6-4168-bf46-7e0419276bd7" />
+<img width="1888" height="875" alt="álbum de leon bridges em destaque com vinil, capa do álbum e link do spotify" src="https://github.com/user-attachments/assets/98f52bce-ff1a-4809-89a6-504a38e8ffae" />
 
 ## Tech Stack
 
