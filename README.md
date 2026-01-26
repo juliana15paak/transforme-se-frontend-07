@@ -6,7 +6,7 @@ Este repositório foi criado para organizar meus estudos e desafios práticos du
 
 ## 🔗 Demonstração Online
 Acompanhe o resultado visual dos meus exercícios através do GitHub Pages:
-👉 **[CLIQUE AQUI PARA ACESSAR](https://juliana15paak.github.io/transforme-se-frontend-07/)**
+👉 **[https://juliana15paak.github.io/transforme-se-frontend-07/](https://juliana15paak.github.io/transforme-se-frontend-07/)**
 
 ---
 
