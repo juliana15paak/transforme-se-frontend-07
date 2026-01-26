@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Projetos Front-End</title>
+    <style>
+        :root {
+            --primary-color: #0070f3;
+            --bg-color: #f4f7f9;
+            --card-bg: #ffffff;
+            --text-color: #333;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        h1 { color: var(--primary-color); }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            max-width: 1000px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 20px;
+            width: 250px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            border-top: 4px solid var(--primary-color);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        footer {
+            margin-top: auto;
+            padding: 2rem;
+            font-size: 0.8rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Front-End</h1>
+        <p>Projetos desenvolvidos durante a formação Serasa Experian & PROA</p>
+    </header>
+
+    <main class="container">
+        <a href="./01Fundamentos/ficha/index.html" class="card">
+            <h3>📝 Ficha</h3>
+            <p>Prática de classes e seletores CSS.</p>
+        </a>
+
+        <a href="./01Fundamentos/cartao-visita/index.html" class="card">
+            <h3>📇 Cartão de Visita</h3>
+            <p>Estudo aprofundado de Box Model.</p>
+        </a>
+
+        <a href="./01Fundamentos/galeria/index.html" class="card">
+            <h3>🖼️ Galeria</h3>
+            <p>Atributos HTML e estilização de imagens.</p>
+        </a>
+
+        <a href="./01Fundamentos/replica/index.html" class="card">
+            <h3>🧩 Réplica</h3>
+            <p>Especificidade, IDs e Cascata CSS.</p>
+        </a>
+
+        <a href="./01Fundamentos/menu/index.html" class="card">
+            <h3>🍔 Menu</h3>
+            <p>Listas transformadas em navegação.</p>
+        </a>
+    </main>
+
+    <footer>
+        Desenvolvido com ❤️ por Juliana Alves 
+    </footer>
+
+</body>
+</html>
