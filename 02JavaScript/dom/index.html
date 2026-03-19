@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body{
+      transition: all ease 2.4s;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .dark{
+      background-color: #010112;
+      color: rgb(248, 248, 248);
+    }
+    .light{
+      background-color: rgb(237, 246, 255);
+      color: #010112;
+    }
+  </style>
+</head>
+<body id="body" class="light">
+  <h1>Título da página</h1>
+  <section>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ipsam quasi nihil, aliquid tenetur similique nobis ratione, magnam quod odio dolore consequuntur hic est iusto, perferendis explicabo quisquam obcaecati quos.
+  </section>
+  <button onClick="toggleMode()"> Modo </button>
+  <script src="script.js"></script>
+</body>
+</html>
